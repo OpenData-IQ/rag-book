@@ -1,1 +1,1 @@
-# rag-book
+# The Retrieval-Augmented Generation Textbook
