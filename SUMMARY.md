@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Introduction](01-intro.md)
-* Concepts
-  * [Overview](02-concepts/README.md)
-  * [Patterns](02-concepts/patterns.md)
+* Foundations
+  * [Overview](02-foundations/README.md)
+  * [Embeddings](02-foundations/embeddings.md)
+  * [Vector Databases](02-foundations/vector-databases.md)
